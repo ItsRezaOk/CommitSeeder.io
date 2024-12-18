@@ -1023,3 +1023,4 @@ filename = f"notes/note_{random.randint(1,1000)}.md"
 2024-12-18T20:46:40 - streamline server calls
 2024-12-18T09:12:40 - restructure CSS classes
 2024-12-18T08:22:34 - update dependencies
+2024-12-18T14:44:38 - add loading indicators
