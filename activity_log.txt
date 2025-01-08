@@ -749,3 +749,4 @@ filename = f"notes/note_{random.randint(1,1000)}.md"
 2025-01-07T15:27:50 - minor style tweaks
 2025-01-07T18:41:10 - rebuild project structure
 2025-01-07T16:54:23 - streamline server calls
+2025-01-07T22:18:19 - remove deprecated methods
