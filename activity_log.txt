@@ -861,3 +861,4 @@ filename = f"notes/note_{random.randint(1,1000)}.md"
 2025-01-15T10:41:10 - update dependencies
 2025-01-15T21:26:08 - minor style tweaks
 2025-01-15T11:42:46 - fix authentication bug
+2025-01-15T17:41:22 - remove deprecated methods
