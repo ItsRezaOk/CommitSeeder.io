@@ -271,3 +271,4 @@ filename = f"notes/note_{random.randint(1,1000)}.md"
 2025-01-30T17:04:35 - rebuild project structure
 2025-01-30T08:35:09 - update dependencies
 2025-01-30T10:02:37 - add feature toggles
+2025-01-30T13:17:46 - clean up old scripts
