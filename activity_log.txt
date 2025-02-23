@@ -608,3 +608,4 @@ filename = f"notes/note_{random.randint(1,1000)}.md"
 2025-02-22T07:20:59 - update documentation
 2025-02-22T09:42:01 - setup continuous integration
 2025-02-22T10:57:58 - create new utility script
+2025-02-23T11:21:54 - remove deprecated methods
