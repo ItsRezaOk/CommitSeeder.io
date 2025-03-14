@@ -145,3 +145,4 @@ filename = f"notes/note_{random.randint(1,1000)}.md"
 2025-03-12T15:53:10 - improve error handling
 2025-03-12T14:49:47 - improve error handling
 2025-03-12T20:29:29 - update dependencies
+2025-03-13T19:38:16 - remove deprecated methods
