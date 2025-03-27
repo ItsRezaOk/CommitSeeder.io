@@ -16,3 +16,4 @@ Example tweak to create notes inside `notes/`:
 if not os.path.exists("notes"):
     os.makedirs("notes")
 filename = f"notes/note_{random.randint(1,1000)}.md"
+2025-03-27T13:01:51 - adjust mobile layout
