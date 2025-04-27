@@ -1,0 +1,14 @@
+# Commit Style Plan (7 months)
+Month 1: Startup Grind
+Month 2: Chill Dev
+Month 3: Startup Grind
+Month 4: Chill Dev
+Month 5: Pro Open Source
+Month 6: Pro Open Source
+Month 7: Chill Dev
+
+# Notes:
+- Prioritize heavy bursts during months 1, 3
+- Include weekends only for startup grind months
+- Spread clean, even work across pro open source months
+- Allow low-commit weeks near holidays (Dec, July)

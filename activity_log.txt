@@ -1,0 +1,18 @@
+
+(Keeps your repo clean if you push the seeder project itself.)
+
+---
+
+# BONUS — Optional improvements:
+
+| Feature | How? |
+|:--------|:-----|
+| `notes/` folder | Modify the `maybe_create_new_file()` to create notes inside `notes/` folder instead of root |
+| `seeds/` folder | If you want to store presets (like different commit plans for different repos) |
+
+Example tweak to create notes inside `notes/`:
+
+```python
+if not os.path.exists("notes"):
+    os.makedirs("notes")
+filename = f"notes/note_{random.randint(1,1000)}.md"
